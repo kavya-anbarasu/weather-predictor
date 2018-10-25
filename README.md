@@ -1,2 +1,2 @@
 # weather-predictor
-predicts weather for Fort Lauderdale, Florida
+Predicts weather for Fort Lauderdale, Florida
